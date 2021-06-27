@@ -4,11 +4,11 @@
 <h3> Important Links for the test are </h3>
 <br/>
 <br/>
-<p> for web please use the following plugins <br>
-     
-     1. web developer chrome extension
-     2. clean cache
-     3. wap palyzer
-     4. json viewer
-     5. window resizer 
+<p> For web please use the following plugins <br>
+    <ol> 
+     <li>1. web developer chrome extension</li>
+     <li> 2. clean cache</li>
+     <li> 3. wap palyzer</li>
+     <li> 4. json viewer</li>
+     <li> 5. window resizer</li>
 </p>
