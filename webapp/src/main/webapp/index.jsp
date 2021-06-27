@@ -4,7 +4,7 @@
 <h3> Chrome Extenstion Important Links for the webdevelopers test are </h3>
 <br/>
 <br/>
-<p> For web please use the following plugins <br>
+<p> For web developers please use the following plugins <br>
     <ol> 
      <li>web developer chrome extension</li>
      <li>clean cache</li>
